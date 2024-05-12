@@ -12,8 +12,7 @@ Route 104|paras,weedle,scatterbug,blipbug,sizzlipede,ekans,salandit,venipede,com
 --Route 104|aq1|evil-team|Aqua Grunt
 
 Route 106|spheal,chewtle,shellder,staryu,sealeo,walrein,drednaw,starmie,wailord
-Granite Cave|phanpy,cufant,rhyhorn,onix,aron,togedemaru,sandile,geodude-alola,dwebble,nosepass,amaura,sandshrew-alola,sneasel,snover,spheal,snorunt,swinub,bergmite
-Steven's Room|abra,hatenna,gligar,nosepass,magnemite,baltoy,dottler,meditite,drowzee
+Granite Cave|phanpy,cufant,rhyhorn,onix,aron,togedemaru,sandile,geodude-alola,dwebble,nosepass,amaura,sandshrew-alola,sneasel,snover,spheal,snorunt,swinub,bergmite,abra,hatenna,gligar,nosepass,magnemite,baltoy,dottler,meditite,drowzee
 Route 109|chewtle,tirtouga,krabby,corphish,clauncher,tentacool,tynamo,wailord,drednaw,carracosta
 
 Slateport City|horsea,remoraid,buizel,qwilfish,anorith,lileep,slowpoke,slowbro,slowking
